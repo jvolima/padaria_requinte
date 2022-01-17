@@ -3,7 +3,7 @@ body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-ul {
+#menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -12,11 +12,11 @@ ul {
     position: absolute; 
 }
 
-li {
+.item {
     float: left;
 }
 
-li a {
+.item a {
     display: inline-block;
     color: white;
     text-align: center;
@@ -27,7 +27,7 @@ li a {
 		font-size: 22px;
 }
 
-li a:hover {
+.item a:hover {
     background-color: #ffffff;
 		opacity: 40%;
 		color: #4F2000;
