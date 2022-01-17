@@ -1,0 +1,40 @@
+#titulo {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 30px;
+  color: #4F2000
+}
+
+#subtitulo {
+  font-size: 26px;
+  text-align: center;
+  margin-top: 50px;
+  color: #4F2000;
+  font-weight: bold;
+}
+
+#container_mapa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+#container_mapa p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #4F2000;
+}
+
+#mapa {
+  width: 80%;
+  height: 250px;
+  margin-bottom: 40px;
+}
+
+.fotos {
+  width: 400px;
+  height: 300px;
+}

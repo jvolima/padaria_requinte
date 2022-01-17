@@ -1,0 +1,43 @@
+legend{
+  font-size: 26px;
+  padding: 20px 5px;
+  color: #4F2000;
+  font-weight: bold;
+}
+
+fieldset{
+  border: 0px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.campos{
+  padding: 10px 10px;
+}
+
+.campos label{
+  display: block;
+  margin-bottom: 5px;
+}
+
+.campos input{
+  padding: 7px 5px;
+  margin-bottom: 8px;
+  margin-top: 6px;
+  width: 60%;
+}
+
+.botao{
+  margin: 20px 25px 10px 5px;
+  padding: 10px 10px;
+  background: #f83f1e;
+  color: white;
+  font-size: 15px;
+  border-radius: 8px;
+}
+
+.botao:hover{
+  font-size: 18px;
+  background: #ff0e0e;
+  transition: 0.6s;
+}
