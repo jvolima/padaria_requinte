@@ -5,10 +5,16 @@ h1 {
 }
 
 .card_img{
-  width: 270px;
-  height:250px;
+  width: 320px;
+  height:320px;
   overflow: hidden;
-  margin: 20px;
+  margin-bottom: 40px;
+  margin-right: 80px;
+}
+.card_img {
+  text-align: center;
+  font-size: 18px;
+  font-family: "Helvetica Neue",;
 }
 .small_img{
   height: 100%;
@@ -27,7 +33,6 @@ h1 {
 }
 
 #modal_img{
- 
   width: 65vw;
   height: 65vh;
 }
