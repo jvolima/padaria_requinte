@@ -8,10 +8,10 @@ function saudacao() {
   if(hour >= 6 && hour < 12) {
     saudacao.innerHTML = "Bom dia! Estamos abertos 😃"
   } 
-  else if(hour > 12 && hour < 18) {
+  else if(hour >= 12 && hour < 18) {
     saudacao.innerHTML = "Boa tarde! Estamos abertos 😃"
   }
-  else if(hour < 20) {
+  else if(hour >= 18 && hour < 20) {
     saudacao.innerHTML = "Boa noite! Estamos abertos 😃"
   }
   else if(hour > 20) {

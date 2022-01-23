@@ -9,7 +9,8 @@ h1 {
   height:320px;
   overflow: hidden;
   margin-bottom: 40px;
-  margin-right: 80px;
+  margin-right: 40px;
+  margin-left:40px;
 }
 .card_img {
   text-align: center;
