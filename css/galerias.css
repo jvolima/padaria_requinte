@@ -5,18 +5,23 @@ h1 {
 }
 
 .card_img{
-  width: 320px;
-  height:320px;
+  width: 300px;
+  height:250px;
   overflow: hidden;
   margin-bottom: 40px;
   margin-right: 40px;
   margin-left:40px;
 }
-.card_img {
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   text-align: center;
   font-size: 18px;
-  font-family: "Helvetica Neue",;
 }
+
 .small_img{
   height: 100%;
   width: 100%;
