@@ -47,11 +47,13 @@ fieldset{
   font-size: 36px;
   color: #4F2000;
   margin-right: 20px;
+  font-weight: bold;
+  margin-top: 40px;
 }
 
 #novidades {
   text-align: center;
-  font-size: 26px;
+  font-size: 20px;
   color: #4F2000;
   margin-right: 20px;
 }
@@ -63,12 +65,12 @@ fieldset{
 }
 
 #formulario-esquerda {
-  width: 60%;
+  width: 54%;
   float: left;
 }
 
 #formulario-direita {
-  width: 40%;
+  width: 46%;
   float: right;
   display: flex;
   justify-content:center;
