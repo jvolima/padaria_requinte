@@ -34,6 +34,7 @@ fieldset{
   color: white;
   font-size: 15px;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 .botao:hover{
