@@ -60,9 +60,9 @@ h1 {
   background: rgb(206, 15, 15);
   position: absolute;
   margin-right: 2rem;
-  top:10px;
+  top: 3rem;
   right: 10px;
-  padding: 5px 15px;
+  padding: 6px 15px;
   font-size: 25px;
   border:solid 1px #fff;
   transition: all ease-out .4s;
